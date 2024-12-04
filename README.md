@@ -1,1 +1,3 @@
 # techblog_CausalImpact_antipatterns
+
+「CausalImpactのアンチパターン」で利用したシミュレーションコード
